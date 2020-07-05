@@ -1,0 +1,6 @@
+{
+  "presets": [
+    // Utilizar todas las ventajas de JS moderno
+    "@babel/preset-env"
+  ]
+}
