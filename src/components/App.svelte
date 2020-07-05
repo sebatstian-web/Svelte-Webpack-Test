@@ -1,3 +1,12 @@
+<script>
+  import Main from './Main.svelte';
+  import Logo from './Logo.svelte';
+  import Footer from './Footer.svelte';
+</script>
+
 <div class="App">
-  <h1>Mensaje de prueba</h1>
+  <Main>
+    <Logo />
+    <Footer />
+  </Main>
 </div>
